@@ -1,4 +1,5 @@
 version="1.0"
+dependencies = { "Avatar - The last Airbender" }
 tags={
 	"Translation"
 }
