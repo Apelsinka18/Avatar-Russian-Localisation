@@ -1,0 +1,12 @@
+﻿l_russian:
+ FACTION_LEADER:0 "Лидер фракции: §Y$COUNTRY$§!"
+ FACTION_MEMBER:0 "Член фракции: §Y$COUNTRY$§!"
+ FACTION_CREATED_UNDER_MASTER_TITLE:0 "Присоединились к фракции хозяина"
+ FACTION_CREATED_UNDER_MASTER_MESSAGE:0 "Мы присоединились к фракции $FACTION|H$ вместе с нашим хозяином"
+
+ Alliance_of_Fire:0 "Альянс Огня"
+ Air_Nomads:0 "Кочевники Воздуха"
+ Earth_Kingdom:0 "Королевство Земли"
+ Water_Tribes:0 "Племена Воды"
+
+ Western_Alliance:0 "Западное Королевство"

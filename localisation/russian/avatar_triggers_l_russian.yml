@@ -1,0 +1,86 @@
+﻿l_russian:
+ check_liberty_20_tooltip:0 "Менее §H20%§! £centralisation_weekly_texticon  Централизации"
+ check_liberty_25_tooltip:0 "Менее §H25%§! £centralisation_weekly_texticon  Централизации"
+ check_liberty_40_tooltip:0 "Менее §H40%§! £centralisation_weekly_texticon  Централизации"
+ check_liberty_50_tooltip:0 "Менее §H50%§! £centralisation_weekly_texticon  Централизации"
+ check_liberty_60_tooltip:0 "Менее §H60%§! £centralisation_weekly_texticon  Централизации"
+ check_liberty_80_tooltip:0 "Менее §H80%§! £centralisation_weekly_texticon  Централизации"
+
+ check_authority_20_tooltip:0 "Более §H20%§! £centralisation_weekly_texticon  Централизации"
+ check_authority_40_tooltip:0 "Более §H40%§! £centralisation_weekly_texticon  Централизации"
+ check_authority_50_tooltip:0 "Более §H50%§! £centralisation_weekly_texticon  Централизации"
+ check_authority_60_tooltip:0 "Более §H60%§! £centralisation_weekly_texticon  Централизации"
+ check_authority_75_tooltip:0 "Более §H75%§! £centralisation_weekly_texticon  Централизации"
+ check_authority_80_tooltip:0 "Более §H80%§! £centralisation_weekly_texticon  Централизации"
+
+ check_liberty_tooltip:0 "Менее $RIGHT|%%Y2$ £centralisation_weekly_texticon  Централизации"
+ check_authority_tooltip:0 "Более $RIGHT|%%Y2$ £centralisation_weekly_texticon  Централизации"
+
+ check_urbanisation_tooltip:0 "Менее $RIGHT|Y0$ £urbanisation_texticon  Урбанизации"
+
+ income_deficit_check:0 "Доход §Rотрицательный§! из-за £taxes_texticon  Налогообложения и £payments_texticon  Расходов: $LEFT|Y2$"
+ daily_money_check:0 "Ежедневный £income_texticon  §YДоход§!: не менее $RIGHT|Y2$"
+ money_check:0 "£income_texticon  §YКазна§! менее или равна: $RIGHT|Y2$"
+ less_than_taxation_efficiency_check:0 "Национальная £tax_efficiency_texticon  §YЭффективность налогообложения§! менее: $RIGHT|Y2%$"
+
+ at_least_occupation_war_weariness_tooltip:0 "Не менее $RIGHT|%%Y2$ £war_weariness_texticon  §YВоенной усталости§! из-за оккупированных территорий"
+ at_most_occupation_war_weariness_tooltip:0 "Не более $RIGHT|%%Y2$ £war_weariness_texticon  §YВоенной усталости§! из-за оккупированных территорий"
+
+ check_revolt_risk_greater_0:0 "Более §H0%§! Риска восстания"
+ check_revolt_risk_0:0 "§H0%§! Риска восстания"
+
+ state_conflict_attacker_can_pressure_claim_tt:0 "Очки для давления на притязания: [?FROM.attacker_points|Y0]/§Y100§!"
+ state_conflict_defender_can_pressure_claim_tt:0 "Очки для давления на притязания: [?FROM.defender_points|Y0]/§Y100§!"
+ state_conflict_attacker_can_force_fight_tt:0 "Силы для принуждения к бою: [?FROM.attacker_strength|Y0]/§Y[?FROM.attacker_strength_min|Y0]§!"
+ state_conflict_defender_can_force_fight_tt:0 "Силы для принуждения к бою: [?FROM.defender_strength|Y0]/§Y[?FROM.defender_strength_min|Y0]§!"
+
+ not_earth_kingdom_array_tt:0 "Не является членом §uЗемного Королевства§!"
+ earth_kingdom_array_tt:0 "Является членом §uЗемного Королевства§!"
+
+ calendar_month_1_tt:0 "Месяц: §YЯнварь§!"
+ calendar_month_2_tt:0 "Месяц: §YФевраль§!"
+ calendar_month_3_tt:0 "Месяц: §YМарт§!"
+ calendar_month_4_tt:0 "Месяц: §YАпрель§!"
+ calendar_month_5_tt:0 "Месяц: §YМай§!"
+ calendar_month_6_tt:0 "Месяц: §YИюнь§!"
+ calendar_month_7_tt:0 "Месяц: §YИюль§!"
+ calendar_month_8_tt:0 "Месяц: §YАвгуст§!"
+ calendar_month_9_tt:0 "Месяц: §YСентябрь§!"
+ calendar_month_10_tt:0 "Месяц: §YОктябрь§!"
+ calendar_month_11_tt:0 "Месяц: §YНоябрь§!"
+ calendar_month_12_tt:0 "Месяц: §YДекабрь§!"
+
+ gdp_increased_by_10:0 "Процветание увеличилось на §H10%§!"
+ dragons_allive_smaller_10:0 "Осталось не более 10 драконов"
+
+ can_add_mission:0 "Есть хотя бы одно свободное £missions_texticon  §mЗадание§!: [?mtth:get_missions|0]/[?mtth:get_mission_cap|0]"
+
+ autonomy_1000_up:0 "§H1000§! или более £autonomy_texticon  Автономии марионетки"
+
+ autonomy_900:0 "§H900§! или менее £autonomy_texticon  Автономии марионетки"
+ autonomy_750:0 "§H750§! или менее £autonomy_texticon  Автономии марионетки"
+ autonomy_700:0 "§H700§! или менее £autonomy_texticon  Автономии марионетки"
+ autonomy_500:0 "§H500§! или менее £autonomy_texticon  Автономии марионетки"
+ autonomy_250:0 "§H250§! или менее £autonomy_texticon  Автономии марионетки"
+ autonomy_100:0 "§H100§! или менее £autonomy_texticon  Автономии марионетки"
+
+
+ chin_support_10:0 "Более §H10%§! §uСторонников Чина§!"
+ chin_support_20:0 "Более §H20%§! §uСторонников Чина§!"
+ chin_support_30:0 "Более §H30%§! §uСторонников Чина§!"
+ chin_support_40:0 "Более §H40%§! §uСторонников Чина§!"
+ chin_support_50:0 "Более §H50%§! §uСторонников Чина§!"
+ chin_support_60:0 "Более §H60%§! §uСторонников Чина§!"
+ chin_support_70:0 "Более §H70%§! §uСторонников Чина§!"
+ chin_support_80:0 "Более §H80%§! §uСторонников Чина§!"
+ chin_support_90:0 "Более §H90%§! §uСторонников Чина§!"
+
+ dai_li_full:0 "Каждое министерство контролируется Дай Ли."
+
+ meetings_disrupted:0 "Совет был прерван."
+
+ no_divisions_around_ba_sing_se:0 "Нет дивизий в §YБа Синг Се§! или его окрестностях"
+ is_earth_kingdom_tt:0 "Является частью §YEЗемного Королевства§!"
+ ba_sing_se_approached_tt:0 "Контролирует любую область вокруг §YБа Синг Се§!"
+ ba_sing_se_encircled_tt:0 "§YБа Синг Се§! или его союзники не полностью контролируют все области вокруг города."
+ breached_outer_wall_tt:0 "Внешняя стена §YБа Синг Се§! была пробита."
