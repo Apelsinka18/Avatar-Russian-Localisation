@@ -321,7 +321,7 @@
  BORDER_CONFLICT_IF_YOU_LOSE:0 "§HЕсли вы проиграете:§!"
  BORDER_CONFLICT_CHANGE_STATE:0 "Контроль над $STATE|H$ будет передан $COUNTRY|H$"
  BORDER_CONFLICT_FOR_ENEMY:0 "Для противника ($COUNTRY|H$):"
- May:0 "Может"
+ May:0 "Мая"
  DISENGAGE_FROM_COMBAT:0 "§HОтступить§!\n\nПринудительно заставить ваши подразделения выйти из боя."
  DISENGAGE_FROM_COMBAT_DONE:0 "Ваши подразделения уже пытаются выйти из боя."
  ESCAPE_PROGRESS:0 "Прогресс выхода: $NUM|%+$"
